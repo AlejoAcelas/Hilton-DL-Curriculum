@@ -3,5 +3,5 @@ A repository for the assignments from [Jacob Hilton's Deep Learning Curriculum](
 I may go beyond the first chapter if I have more time in the future.  
 
 ## Chapter 1: Transformers  
-Implements a decoder-only transformer language model from scratch and trains it on the complete works of Shakespeare.  
+Implement a decoder-only transformer from scratch and train it on the complete works of Shakespeare.  
 * [Transformer (Colab)](https://colab.research.google.com/drive/1uyJ18_c94GNldG2iEHWd7-8wfnXJDAnN?usp=sharing)
